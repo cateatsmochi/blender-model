@@ -1,0 +1,52 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v5.1.18",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"name":"Scene",
+			"nodes":[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"nodes":[
+		{
+			"name":"Scene Collection"
+		},
+		{
+			"name":"Collection"
+		},
+		{
+			"camera":0,
+			"name":"\u6444\u50cf\u673a",
+			"rotation":[
+				-0.060576051473617554,
+				0.2616617679595947,
+				0.016459627076983452,
+				0.9631161689758301
+			],
+			"translation":[
+				18.23200225830078,
+				5.299786567687988,
+				20.35247039794922
+			]
+		}
+	],
+	"cameras":[
+		{
+			"name":"\u6444\u50cf\u673a",
+			"orthographic":{
+				"xmag":9.94999885559082,
+				"ymag":7.462499141693115,
+				"zfar":1000,
+				"znear":0.10000000149011612
+			},
+			"type":"orthographic"
+		}
+	]
+}
